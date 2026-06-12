@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/generate-prd.js": {
+      "maxDuration": 60
+    }
+  }
+}
